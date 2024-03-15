@@ -180,5 +180,8 @@
     "peerDependencies": {
       "@popperjs/core": "^2.11.8"
     }
+  },
+  "dependencies": {
+    "yui-lint": "^0.2.0"
   }
 }
